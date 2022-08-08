@@ -4,8 +4,8 @@
     <title>MATTY OBRIEN</title>
   </head>
   <body>
-   <h1>W3 HOMEPAGE FOR MATTY O'BRIEN</h1>
-   <img src="webimage/matty.png" alt="PICTURE OF MATTY">
+   <h1>HOMEPAGE FOR MATTY O'BRIEN</h1>
+  <img width="257" alt="matty" src="https://user-images.githubusercontent.com/110859861/183530770-6f21a58c-7a37-4110-8006-8a43551d09c0.png">
      <p>Matty O'Brien is an Environmental Scientist From Salt Lake City Utah. His areas of interest and expertise include:</p>
 
     <ul> <!-- changed to list in the tutorial -->
@@ -23,5 +23,4 @@
   </body>
 </html>
 
-<img width="257" alt="matty" src="https://user-images.githubusercontent.com/110859861/183530770-6f21a58c-7a37-4110-8006-8a43551d09c0.png">
 [Baseline Vegitation Data at the Freeport Drain, Great Salt Lake, Utah.pdf](https://github.com/mattyobrien/mattyobrien.github.io/files/9285534/Baseline.Vegitation.Data.at.the.Freeport.Drain.Great.Salt.Lake.Utah.pdf)
