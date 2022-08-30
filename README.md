@@ -20,4 +20,4 @@
   </body>
 </html>
 
-[Baseline Vegitation Data at the Freeport Drain, Great Salt Lake, Utah.pdf](https://github.com/mattyobrien/mattyobrien.github.io/files/9285534/Baseline.Vegitation.Data.at.the.Freeport.Drain.Great.Salt.Lake.Utah.pdf)
+[Baseline Vegetation Data at the Freeport Drain, Great Salt Lake, Utah.pdf](https://github.com/mattyobrien/mattyobrien.github.io/files/9285534/Baseline.Vegitation.Data.at.the.Freeport.Drain.Great.Salt.Lake.Utah.pdf)
