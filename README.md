@@ -9,15 +9,12 @@
      <p>Matty O'Brien is an Environmental Scientist From Salt Lake City Utah. His areas of interest and expertise include:</p>
 
     <ul> <!-- changed to list in the tutorial -->
-      <li>Sustainability</li>
-      <li>Ecology</li>
-      <li>Climate Change</li>
-      <li>Ecological Regions</li>
       <li>The Great Basin</li>
-      <li>Ethnobotany</li>
+      <li>The Great Salt Lake</li>
+      <li>Ecology, Urban Ecology, Riperian Ecology</li>
+      <li>Climate Change</li>
+      <li>Ethnobotany of the Goshute, Northern Paiute</li>
     </ul>
-
-    <p>Matty has worked with non-profit organizations and government agencies to promote sustainability in the 21st century.</p>
 
     <p>More information on Matty can be found <a href="https://www.linkedin.com/in/matthew-o-brien-7a183b183/">here</a> along with his contact information.</p>
   </body>
